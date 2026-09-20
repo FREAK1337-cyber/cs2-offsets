@@ -1,0 +1,15 @@
+# CS2 Offsets
+
+Оффсеты для CS2.
+
+## Файлы
+
+- `offsets/offsets.json` — сигнатуры
+- `offsets/client_dll.json` — нетвары
+- `offsets/version.json` — версия оффсетов
+
+## Обновление
+
+Запусти `cs2-dumper.exe` (при запущенной CS2), потом закинь JSON'ы в репозиторий.
+
+**made by FREAK1337**
